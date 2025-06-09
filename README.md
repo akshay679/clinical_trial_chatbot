@@ -48,5 +48,5 @@ This is an AI-powered multi-modal chatbot that helps users find relevant clinica
 - └── requirements.txt # Dependencies
 -python venv -m venv
 -source venv/bin/activate
--run screenlit screenlit_app/app.py
+-streamlit run streamlit_app/app.py
 
